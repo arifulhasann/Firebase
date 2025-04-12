@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650795143989",
+    "project_id": "hello-e528d",
+    "storage_bucket": "hello-e528d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650795143989:android:8d135fc01d31e074a0327c",
+        "android_client_info": {
+          "package_name": "com.example.testproject2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbeT-55rEqpEnu9ttoUerL_hkrLnc9Dns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
